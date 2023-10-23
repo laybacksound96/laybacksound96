@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/d59aa191-c6e5-48bb-b6b4-e4b81835c3b4.svg)](https://wakatime.com/@d59aa191-c6e5-48bb-b6b4-e4b81835c3b4)
 <!--
 **laybacksound96/laybacksound96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
